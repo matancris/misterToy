@@ -1,0 +1,28 @@
+[
+  {
+
+    "username": "asi",
+    "password": "i124",
+    "isAdmin": false
+
+  },
+  {
+
+    "username": "chench",
+    "password": "i123",
+    "isAdmin": false
+
+  },
+  {
+
+    "username": "yaron",
+    "password": "i111",
+    "isAdmin": false
+  },
+  {
+    "fullName": "matan crispel",
+    "username": "cris",
+    "password": "admin",
+    "isAdmin": true
+  }
+]

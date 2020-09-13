@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Matan Cris",
+    "price": 25,
+    "type": "Funny",
+    "createdAt": 1599655636560,
+     "inStock": true,
+    "updatedAt": 1599667428151
+  },
+  {
+    "name": "matt",
+    "price": 22,
+    "type": "Funny",
+    "createdAt": 1599594140559,
+     "inStock": true
+  },
+  {
+      "name": "massa",
+    "price": 59,
+    "type": "Adult",
+    "createdAt": "1996-05-16T13:58:01.113Z",
+    "inStock": true,
+    "updatedAt": 1599592566508
+  },
+  {
+      "name": "facilisis matan",
+    "price": 32,
+    "type": "Funny",
+    "createdAt": "1980-01-25T14:41:21.526Z",
+    "inStock": true,
+    "updatedAt": 1599594098668
+  },
+  {
+      "name": "vestibulum morbi",
+    "price": 11,
+    "type": "Educational",
+    "createdAt": "1973-09-16T04:54:08.302Z",
+    "inStock": true,
+    "updatedAt": 1599594102851
+  },
+  {
+      "name": "tempor aenean",
+    "price": 50,
+    "type": "Educational",
+    "createdAt": "1985-10-27T03:25:59.663Z",
+    "inStock": false
+  },
+  {
+      "name": "orci facilisis",
+    "price": 22,
+    "type": "Educational",
+    "createdAt": "1980-12-22T00:01:20.271Z",
+    "inStock": false
+  },
+  {
+      "name": "aliquam sollicitudin",
+    "price": 46,
+    "type": "Educational",
+    "createdAt": "1970-10-16T21:27:08.402Z",
+    "inStock": true,
+    "updatedAt": 1599594124204
+  },
+  {
+      "name": "magna velit",
+    "price": 81,
+    "type": "Funny",
+    "createdAt": "1971-12-30T11:27:29.169Z",
+    "inStock": true
+  },
+  {
+      "name": "ipsum quis",
+    "price": 42,
+    "type": "Educational",
+    "createdAt": "1977-07-20T04:52:04.899Z",
+    "inStock": false
+  },
+  {
+      "name": "lacus mattis",
+    "price": 72,
+    "type": "Educational",
+    "createdAt": "1982-08-19T01:02:40.259Z",
+    "inStock": false
+  },
+  {
+      "name": "et tincidunt",
+    "price": 44,
+    "type": "Funny",
+    "createdAt": "1989-07-10T16:49:44.989Z",
+    "inStock": false
+  },
+  {
+      "name": "magna libero",
+    "price": 46,
+    "type": "Educational",
+    "createdAt": "1970-04-11T10:18:45.947Z",
+    "inStock": false
+  },
+  {
+      "name": "amet aliquam",
+    "price": 3,
+    "type": "Educational",
+    "createdAt": "1987-03-30T17:38:03.335Z",
+    "inStock": false
+  },
+  {
+      "name": "sollicitudin molestie",
+    "price": 21,
+    "type": "Educational",
+    "createdAt": "1983-06-02T09:36:16.400Z",
+    "inStock": false
+  },
+  {
+      "name": "donec massa",
+    "price": 65,
+    "type": "Adult",
+    "createdAt": "1987-06-22T23:50:08.618Z",
+    "inStock": true
+  },
+  {
+      "name": "porttitor vitae",
+    "price": 81,
+    "type": "Educational",
+    "createdAt": "1998-02-16T17:37:19.744Z",
+    "inStock": false
+  },
+  {
+      "name": "libero orci",
+    "price": 19,
+    "type": "Funny",
+    "createdAt": "1986-10-21T17:43:50.380Z",
+    "inStock": false
+  },
+  {
+      "name": "vestibulum dolor",
+    "price": 93,
+    "type": "Funny",
+    "createdAt": "1995-06-08T04:40:25.769Z",
+    "inStock": false
+  }
+]
