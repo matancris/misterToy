@@ -16,5 +16,10 @@ function connectSockets(io) {
             socket.join(topic)
             socket.myTopic = topic;
         })
+        socket.on('chat typing', typingStr => {
+            io.to(socket.myTopic).emit('chat typing', typingStr)
+        })
+
+
     })
 }
